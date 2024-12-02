@@ -263,7 +263,16 @@ hr {
     object-fit: cover;
     display: block;
     border-radius: 10px;
-    margin-left:  90px;
+    margin: 0 auto 20px;
+}
+
+.madrid {
+    width: 90%;
+    height: 600px;
+    object-fit: cover;
+    display: block;
+    border-radius: 10px;
+    margin: 0 auto 20px;
 }
 
 .header-title {
@@ -364,7 +373,20 @@ hr {
     margin-right: 20px;
 }
 
+.RetiroPark {
+    width: 85%;
+    height: auto;
+    margin-right: 20px;
+}
+
 .HighLine {
+    width: 85%;
+    height: auto;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.PuertadelSol {
     width: 85%;
     height: auto;
     margin-left: 10px;
@@ -373,6 +395,12 @@ hr {
 
 .AmericanMuseum {
     width: 90%;
+    height: auto;
+    margin-left: 10px;
+}
+
+.Bernabeu {
+    width: 125%;
     height: auto;
     margin-left: 10px;
 }
